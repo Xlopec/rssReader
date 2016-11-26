@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">RSSReader</string>
+    <string name="action_refresh">Refresh</string>
+    <string name="no_internet">No internet connection</string>
+    <string name="default_rss_url">"http://feeds.abcnews.com/abcnews/topstories"</string>
+</resources>
